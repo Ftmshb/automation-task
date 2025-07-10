@@ -27,7 +27,8 @@ and finally saves the sorted list into a text file with a clear and readable for
    python3 automation_script.py
 
 
-Example input:
+
+## Example input:
 
 How many tasks do you want to enter? 3
 
@@ -44,12 +45,6 @@ Enter the task name: car wash
 How many days are left until the deadline? 13
 
 
-Exaple output:
 
-Your Tasks
-----------
-Task:               Time Left:
--------------------------------
-by a milk           1 day(s)
-do homework         7 day(s)
-car wash            13 day(s)
+## Exaple output:
+It is added as a text file in Git.
