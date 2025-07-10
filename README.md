@@ -24,7 +24,7 @@ and finally saves the sorted list into a text file with a clear and readable for
 4. Run the following command:
 
    ```bash
-   python automation_script.py
+   python3 automation_script.py
 
 
 Example input:
