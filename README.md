@@ -34,14 +34,19 @@ How many tasks do you want to enter? 3
 
 Task #1:
 Enter the task name: by a milk
+
 How many days are left until the deadline? 1
+
 
 Task #2:
 Enter the task name: do homework
+
 How many days are left until the deadline? 7
+
 
 Task #3:
 Enter the task name: car wash
+
 How many days are left until the deadline? 13
 
 
